@@ -39,9 +39,6 @@ packages:
   - 'imagemagick'
   - 'gocryptfs'
 
-aur-packages:
-  - 'https://aur.archlinux.org/xnviewmp.git'
-
 services:
   - 'lightdm'
   - 'ckb-next-daemon'
