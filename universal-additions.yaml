@@ -1,0 +1,28 @@
+packages:
+- 'ckb-next'
+- 'ffmpegthumbnailer'
+- 'firefox'
+- 'flatpak'
+- 'gnome-disk-utility'
+- 'gocryptfs'
+- 'gparted'
+- 'imagemagick'
+- 'intel-media-driver'
+- 'libva-mesa-driver'
+- 'libva-intel-driver'
+- 'pcmanfm'
+- 'pipewire-pulse'
+- 'pipewire-alsa'
+- 'pipewire-jack'
+- 'rclone'
+- 'vlc'
+- 'vlc-plugins-base'
+- 'vlc-plugins-video-output'
+- 'vulkan-intel'
+
+user-services:
+- 'pipewire'
+- 'wireplumber'
+
+services:
+- 'ckb-next-daemon'
